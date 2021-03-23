@@ -56,7 +56,7 @@
 		<key>NSExtensionMainStoryboard</key>
 		<string>TemplateProject-iOS-MainInterface</string>
 		<key>NSExtensionPointIdentifier</key>
-		<string>com.apple.AudioUnit-UI</string>
+		<string>com.apple.AudioUnit</string>
 	</dict>
 </dict>
 </plist>
